@@ -3,7 +3,7 @@ _This project has been created as part of the 42 curriculum by [imeulema](https:
 This projects acts as an introduction to **computer networks**.
 Its goal is to configure small-scale networks through a series of 10 exercises to test our understanding of **TCP/IP addressing**. More specifically, the focus of those exercises is set on **subnet masks** and **default gateways**.
 # Instructions
-The exercises are accessible through the _index.html_ file located at the root of this repository. Configuration files proving all 10 exercises have been made in "training mode" before the evaluation are to be given too.
+The exercises are accessible by running the _index.html_ file located at the root of this repository. Configuration files proving all 10 exercises have been made in "training mode" before the evaluation are to be given too.
 
 The evaluation itself has us complete 3 exercises chosen at random between the levels 7 to 10 of the "training mode", which we have to complete in under 15 minutes.
 # Resources
