@@ -7,7 +7,7 @@ The exercises are accessible through the _index.html_ file located at the root o
 The evaluation itself has us complete 3 exercises chosen at random between the levels 7 to 10 of the "training mode", which we have to complete in under 15 minutes.
 # Resources
 ## AI disclaimer
-42's README requirements asks us to explain how AI was used to work on this project; I find using AI counterproductive when learning about a subject or concepts I am not yet familiar with, therefore no AI was used in the scope of this project.
+42's README requirements asks us to explain how AI was used on each project; I find using AI counterproductive when learning about a subject or concepts I am not yet familiar with, therefore no AI was used in the scope of this project.
 ## References
 - [Basics of Computer Networking](https://www.geeksforgeeks.org/computer-networks/basics-computer-networking/)
 - [Types of Computer Networks](https://www.geeksforgeeks.org/computer-networks/types-of-computer-networks/)
